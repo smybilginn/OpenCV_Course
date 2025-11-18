@@ -1,26 +1,10 @@
 # OpenCV_Course
 Udemy OpenCV course training codes
 
-🐍 Python Görüntü İşleme ve Veri Bilimi Temelleri
+🐍 **Python Görüntü İşleme ve Veri Bilimi Temelleri**
 Bu depo, aldığım kurs çalışmaları sonucunda Python'ın popüler kütüphaneleri olan OpenCV, NumPy, Pandas ve Matplotlib'i kullanarak gerçekleştirdiğim temel alıştırmaları ve uygulamaları içermektedir.
 
 Görüntü işleme ve veri manipülasyonu öğrenimi amacıyla hazırlanmış, başlangıç seviyesindeki konuları kapsayan bir koleksiyondur.
-
-📂 Proje İçeriği
-Proje, üç ana başlık altında toplanmış temel Python kütüphane uygulamalarından oluşur.
-
-
-Harika, bu yeni dosyalar OpenCV ile video işleme konusundaki yetkinliğinizi gösteriyor.
-
-Daha önceki README taslağınıza, bu yeni video işleme alıştırmalarını içeren bir bölüm ekleyelim.
-
-İşte tüm dosyalarınızı kapsayan, güncellenmiş ve birleştirilmiş README metni:
-
-🚀 Python Görüntü İşleme ve Veri Bilimi Temelleri
-Bu depo, aldığım kurslar ve bireysel çalışmalar sonucunda Python'ın güçlü kütüphaneleri olan OpenCV, NumPy, Pandas ve Matplotlib'i kullanarak gerçekleştirdiğim temel alıştırmaları ve uygulamaları içermektedir.
-
-Görüntü/Video işleme ve veri manipülasyonu yeteneklerimi sergilemek amacıyla hazırlanmış, başlangıç seviyesindeki konuları kapsayan bir koleksiyondur.
-
 
 1. 🎬##**OpenCV (Görüntü ve Video İşleme)**
 Görüntü ve video kaynaklarının okunması, manipüle edilmesi ve çıktı alınması üzerine temel fonksiyonları içerir.
