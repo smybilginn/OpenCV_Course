@@ -3,7 +3,7 @@ Udemy OpenCV course training codes
 
 # 🚀 Python Görüntü/Video İşleme ve Veri Bilimi Temelleri
 
-Bu depo, aldığım kurslar ve bireysel çalışmalar sonucunda Python'ın güçlü kütüphaneleri olan **OpenCV**, **NumPy**, **Pandas** ve **Matplotlib**'i kullanarak gerçekleştirdiğim temel alıştırmaları ve uygulamaları içermektedir.
+Bu depo, Udemy'den aldığım Python OpenCv ile Sıfırdan Uzmanlığa Görüntü İşleme kursunun çalışmaları sonucunda Python'ın güçlü kütüphaneleri olan **OpenCV**, **NumPy**, **Pandas** ve **Matplotlib**'i kullanarak gerçekleştirdiğim temel alıştırmaları ve uygulamaları içermektedir.
 
 Görüntü, video işleme ve veri manipülasyonu yeteneklerimi sergilemek amacıyla hazırlanmış, başlangıç seviyesindeki konuları kapsayan bir koleksiyondur.
 
